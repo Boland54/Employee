@@ -1,0 +1,10 @@
+<object-stream>
+  <list>
+    <models.Lecturer>
+      <firstName>Adam</firstName>
+      <secondName>B</secondName>
+      <ppsNumber>123</ppsNumber>
+      <level>1</level>
+    </models.Lecturer>
+  </list>
+</object-stream>
